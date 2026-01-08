@@ -19,9 +19,5 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh91377&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh91377&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh91377)
 
