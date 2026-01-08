@@ -19,9 +19,9 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh91377&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiganesh91377&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh91377&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaiganesh91377&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh91377)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh91377&theme=default)
 
